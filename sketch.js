@@ -8,6 +8,7 @@ function setup() {
 
 function draw() {
   background(220);
+  box1.show();
+box1.set_width(100);
 
 }
-
